@@ -10,16 +10,12 @@
 
 <p>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/madhukamane/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="madhukamane07@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Madhukamane">
@@ -192,7 +188,7 @@ Analyzed the growth of the U.S. electric vehicle market to identify adoption tre
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/Analyzing-U.S.-Electric-Vehicle-Market-">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -221,7 +217,7 @@ Explored Netflix's global content catalog to analyze release trends, genres, rat
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/Netflix-Content-Analysis">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -254,7 +250,7 @@ Performed exploratory data analysis on retail sales data to uncover customer pur
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/Blinkit_Sales_Analysis">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -282,7 +278,7 @@ Analyzed customer purchasing behavior to understand buying patterns and customer
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/Customer_Shopping_behavior">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -293,35 +289,6 @@ Analyzed customer purchasing behavior to understand buying patterns and customer
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-## 📈 Sales Analysis Dashboard
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi"/>
-
-### 📌 Overview
-
-Built an interactive dashboard for monitoring sales performance, KPIs, and business trends.
-
-### ✨ Highlights
-
-- 📊 KPI dashboard
-- 📈 Sales trends
-- 💰 Revenue analysis
-- 📉 Performance monitoring
-- 🎯 Business reporting
-
-<p align="center">
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -344,7 +311,7 @@ Developed an HR dashboard to analyze workforce metrics and employee attrition.
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/HR-Analytics-Dashboard">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -376,7 +343,7 @@ Performed SQL-based business analysis to evaluate sales performance and customer
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/pizza_sales_analysis--sql">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -405,7 +372,7 @@ Designed a dashboard to analyze coffee shop sales, product performance, and reve
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/Coffee_Shop_Sales">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -438,7 +405,7 @@ Created a dynamic retail dashboard to monitor sales, regional performance, and p
 
 <p align="center">
 
-<a href="YOUR_REPO_LINK">
+<a href="https://github.com/Madhukamane/Dynamic_Retail_Dashboard">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
