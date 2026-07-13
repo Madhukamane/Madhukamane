@@ -8,9 +8,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Transforming+Data+into+Business+Insights;Building+Interactive+Dashboards;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Always+Learning+%26+Building"/>
 
 <p>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme"/></a>
+<a href="https://www.linkedin.com/in/madhukamane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="madhukamane07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 </div>
@@ -115,7 +114,6 @@ Seeking a **Data Analyst** opportunity where I can build dashboards, analyze bus
 
 - 💼 LinkedIn: https://www.linkedin.com/in/madhukamane/
 - 📧 Email: madhukamane07@gmail.com
-- 📄 Resume: YOUR_RESUME_LINK
 - 🌐 GitHub: https://github.com/Madhukamane
 
 ---
