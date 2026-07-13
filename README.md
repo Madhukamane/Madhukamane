@@ -1,10 +1,17 @@
-# 👋 Hi, I'm Madhu Kamane
 
 <div align="center">
 
-## 📊 Data Analyst | SQL • Python • Power BI • Excel
+# 👋 Hi, I'm Madhu Kamane
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Turning+Data+into+Business+Insights;Building+Interactive+Power+BI+Dashboards;Cleaning+Real-World+Datasets;SQL+%7C+Python+%7C+Power+BI+%7C+Excel" />
+### **Data Analyst | SQL • Python • Power BI • Excel**
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Transforming+Data+into+Business+Insights;Building+Interactive+Dashboards;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Always+Learning+%26+Building"/>
+
+<p>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme"/></a>
+</p>
 
 </div>
 
@@ -12,68 +19,45 @@
 
 # 🚀 About Me
 
-I'm a B.E. graduate in Artificial Intelligence & Data Science passionate about Data Analytics. My repositories showcase practical work in SQL, Python, Excel, and Power BI using real-world datasets.
+I'm a **B.E. Artificial Intelligence & Data Science graduate** focused on Data Analytics. My repositories demonstrate practical work with **SQL, Python, Excel, and Power BI** using real-world datasets from retail, entertainment, HR, automotive, and customer analytics.
 
-- 📊 Business Intelligence Dashboards
-- 🧹 Data Cleaning & Transformation
-- 📈 Exploratory Data Analysis
-- 📉 Data Visualization
-- 🗄 SQL Analytics
-- 📑 Business Reporting
+## 🎯 Career Objective
 
----
-
-# 🎯 Career Objective
-
-Seeking a Data Analyst role where I can use SQL, Python, Excel and Power BI to solve business problems and deliver data-driven insights.
-
----
-
-# 🎓 Education
-
-**Bachelor of Engineering – Artificial Intelligence & Data Science**  
-S G Balekundri Institute of Technology, Belagavi  
-**CGPA:** 8.5
+Seeking a **Data Analyst** opportunity where I can build dashboards, analyze business data, and deliver actionable insights.
 
 ---
 
 # ⚡ Recruiter Snapshot
 
-| Item | Details |
-|------|---------|
+| Category | Details |
+|---|---|
+| 🎓 Education | B.E. AI & Data Science (CGPA 8.5) |
 | 💼 Target Role | Data Analyst |
 | 📍 Location | Karnataka, India |
-| 🛠 Core Skills | SQL, Python, Power BI, Excel |
-| 📊 Focus | BI, Dashboards, Analytics |
-| 🌱 Learning | Advanced SQL, Statistics |
+| 🛠 Core Skills | SQL, Python, Excel, Power BI |
+| 📊 Portfolio | 9+ Analytics Projects |
+| 🌱 Learning | Advanced SQL, Statistics, Data Storytelling |
 
 ---
 
 # 🛠 Skills & Technologies
 
 | Category | Skills |
-|----------|--------|
+|---|---|
 | Programming | Python |
 | Database | SQL, MySQL |
-| BI & Reporting | Power BI, Power Query, DAX |
+| BI | Power BI, DAX, Power Query |
 | Spreadsheet | Microsoft Excel |
 | Libraries | Pandas, NumPy, Matplotlib, Seaborn |
 | Analytics | Data Cleaning, EDA, Data Visualization, Dashboard Development |
 | Tools | Git, GitHub, VS Code, Jupyter Notebook |
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Analytics
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-0F9D58?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
-
-### Python Libraries
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -81,33 +65,21 @@ S G Balekundri Institute of Technology, Belagavi
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-## 📊 Blinkit Sales Analysis
-**Python • Pandas • NumPy • Matplotlib**
-- Cleaned and analyzed retail sales data
-- Performed exploratory data analysis
-- Built business visualizations
-- Identified sales trends
+| Project | Overview |
+|---|---|
+| 🚗 **Analyzing U.S. Electric Vehicle Market** | Market trends, manufacturer analysis, EV adoption insights using Python, Pandas, Matplotlib & Seaborn. |
+| 🎬 **Netflix Content Analysis** | Explored genres, release trends, ratings, and country-wise content distribution. |
+| 🛒 **Blinkit Sales Analysis** | Retail sales analysis, customer insights, product performance, and business reporting. |
+| 🛍 **Customer Shopping Behavior** | Customer segmentation, purchase patterns, and behavioral analysis. |
+| 📈 **Sales Analysis** | Sales KPI reporting and trend analysis dashboard. |
+| 👥 **HR Analytics Dashboard** | Employee attrition, workforce KPIs, and interactive Power BI reporting. |
+| 🍕 **Pizza Sales Analysis (SQL)** | SQL-driven business insights, revenue analysis, and top-selling products. |
+| ☕ **Coffee Shop Sales** | Dashboard for sales, revenue, and product performance analysis. |
+| 🏪 **Dynamic Retail Dashboard** | Interactive retail dashboard with KPI monitoring and category performance. |
 
-## 👥 HR Analytics Dashboard
-**Power BI • DAX • Power Query**
-- Interactive HR dashboard
-- Employee attrition analysis
-- KPI cards and slicers
-- Department insights
-
-## ☕ Coffee Shop Sales Dashboard
-**Excel • Power BI**
-- Sales reporting
-- Revenue trends
-- Product performance analysis
-
-## 🎓 University Ranking Analysis
-**SQL • Python**
-- SQL analytics
-- Trend analysis
-- Comparative reporting
+> 📌 Replace each project title with its repository link.
 
 ---
 
@@ -118,7 +90,7 @@ S G Balekundri Institute of Technology, Belagavi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukamane&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Madhukamane&theme=github-dark)
+![Streak](https://streak-stats.demolab.com/?user=Madhukamane&theme=github-dark)
 ```
 
 ---
@@ -130,24 +102,28 @@ S G Balekundri Institute of Technology, Belagavi
 - Machine Learning with Python
 - Data Science Internship
 
----
-
 # 📚 Currently Learning
 
 - Advanced SQL
 - Power BI
 - Statistics
 - Data Storytelling
-- Cloud Computing
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
+- 💼 LinkedIn: https://www.linkedin.com/in/madhukamane/
 - 📧 Email: madhukamane07@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/Madhukamane
+- 📄 Resume: YOUR_RESUME_LINK
 - 🌐 GitHub: https://github.com/Madhukamane
 
 ---
 
-> *Thanks for visiting my profile! Explore my repositories to see my work in action.*
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning data into meaningful business decisions through analysis and visualization."*
+
+</div>
